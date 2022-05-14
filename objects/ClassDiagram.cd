@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bonus" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAggAAAAAAAACAAAAEAAA=</HashCode>
+      <FileName>D:\MSN\Project\CPlusPlus\Tank1990\src\objects\bonus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brick" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAABAAAAAAAAAAAAEAAAAAAEAAA=</HashCode>
+      <FileName>D:\MSN\Project\CPlusPlus\Tank1990\src\objects\brick.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAEAAAAAEAQAAAQAAAAAUAAA=</HashCode>
+      <FileName>D:\MSN\Project\CPlusPlus\Tank1990\src\objects\bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Eagle" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAEAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>D:\MSN\Project\CPlusPlus\Tank1990\src\objects\eagle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAAAAEAAAAIAAEAAAAgIAAAEAAABEAAUAAA=</HashCode>
+      <FileName>D:\MSN\Project\CPlusPlus\Tank1990\src\objects\enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgABABAYAAAAAiAAKAAAAkAAARAAAAAAAAAAAEAgA=</HashCode>
+      <FileName>D:\MSN\Project\CPlusPlus\Tank1990\src\objects\object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAJAEAAAAAAAAQAREABAQAEAAA=</HashCode>
+      <FileName>D:\MSN\Project\CPlusPlus\Tank1990\src\objects\player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tank" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAMAAKgABAiqAAkBACAAkAYQQBUAAAAAkCAA=</HashCode>
+      <FileName>D:\MSN\Project\CPlusPlus\Tank1990\src\objects\tank.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="TankStateFlags" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\MSN\Project\CPlusPlus\Tank1990\src\objects\tank.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
